@@ -64,6 +64,4 @@ If you want to chat about tech, collaboration, or just say hi, feel free to reac
 
 ---
 
-<!-- Optional GitHub stats card -->
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
